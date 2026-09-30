@@ -1,0 +1,19 @@
+{
+  "wheel_id": 328,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-com-104",
+  "project": "kitchen-renovations-melbourne-north-costs-df0e1a26391c1e41991c7",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-com-151",
+  "node_role": "feeder",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north costs",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-costs-df0e1a26391c1e41991c7/",
+  "writeback_nonce": "2c04c905a206f021",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-melbourne-north-bd63907827e551b4dfa60eec/",
+      "anchor": "kitchen renovations melbourne north",
+      "rel": "follow"
+    }
+  ]
+}
